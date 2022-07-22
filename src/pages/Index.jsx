@@ -18,7 +18,7 @@ const Index = () => {
                 -utilisation de composant fonctionnel, de Hook et de methode
                 native a JS et React.
             </p>
-            <p>-Pour le design j'ai eu recour a du Css classique.</p> <br />
+            <p>-Pour le design j'ai eu recours a du Css classique.</p> <br />
             <p>Lekieffre Alexandre</p>
         </div>
     )
